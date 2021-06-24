@@ -5,6 +5,7 @@ const printAll = require('./display.js')//Import function from display.js.
 const randomSelect = require("./randomSelect.js");//Import function from randomSelect.js.
 
 //Candidate data:
+
 let astronauts = ['Fox','Turtle','Cat','Hippo','Dog'];
 
 const testTitles = ['Math','Fitness','Coding','Nav','Communication'];
